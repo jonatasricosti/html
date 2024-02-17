@@ -55,7 +55,7 @@ Defines a section that is quoted from another source
 (x) <body>
 Defines the document's body
 
-() <br>
+(x) <br>
 Defines a single line break
 
 () <button>
