@@ -155,7 +155,7 @@ Defines a header and related content
 () <hr>
 Defines a thematic change in the content
 
-() <html>
+(x) <html>
 Defines the root of an HTML document
 
 () <i>
