@@ -345,7 +345,7 @@ Defines text tracks for media elements (<video> and
 () <tt>
 Not supported in HTML5. Use CSS instead. Defines teletype text
 
-() <u>
+(x) <u>
 Defines some text that is unarticulated and styled differently from normal text
 
 () <ul>
