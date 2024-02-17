@@ -299,7 +299,7 @@ Defines subscripted text
 () <summary>
 Defines a visible heading for a <details> element
 
-() <sup>
+(x) <sup>
 Defines superscripted text
 
 () <svg>
