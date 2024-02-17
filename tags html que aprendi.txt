@@ -1,4 +1,4 @@
-() /<!--...-->
+(x) /<!--...-->
 Defines a comment
 
 () <!DOCTYPE>
