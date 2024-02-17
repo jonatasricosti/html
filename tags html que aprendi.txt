@@ -4,7 +4,7 @@ Defines a comment
 (x) <!DOCTYPE>
 Defines the document type
 
-() <a>
+(x) <a>
 Defines a hyperlink
 
 (x) <abbr>
