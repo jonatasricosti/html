@@ -230,7 +230,7 @@ Defines an option in a drop-down list
 () <output>
 Defines the result of a calculation
 
-() <p>
+(x) <p>
 Defines a paragraph
 
 () <param>
