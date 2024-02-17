@@ -332,7 +332,7 @@ Groups the header content in a table
 () <time>
 Defines a specific time (or datetime)
 
-() <title>
+(x) <title>
 Defines a title for the document
 
 () <tr>
