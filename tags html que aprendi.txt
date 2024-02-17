@@ -143,7 +143,7 @@ Not supported in HTML5. Defines a set of frames
 () <h1> to <h6>
 Defines HTML headings
 
-() <head>
+(x) <head>
 Contains metadata/information for the document
 
 () <header>
