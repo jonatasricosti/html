@@ -7,7 +7,7 @@ Defines the document type
 () <a>
 Defines a hyperlink
 
-() <abbr>
+(x) <abbr>
 Defines an abbreviation or an acronym
 
 () <acronym>
