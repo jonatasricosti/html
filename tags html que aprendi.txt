@@ -52,7 +52,7 @@ Not supported in HTML5. Use CSS instead. Defines big text
 () <blockquote>
 Defines a section that is quoted from another source
 
-() <body>
+(x) <body>
 Defines the document's body
 
 () <br>
