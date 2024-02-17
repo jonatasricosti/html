@@ -293,7 +293,7 @@ Defines important text
 () <style>
 Defines style information for a document
 
-() <sub>
+(x) <sub>
 Defines subscripted text
 
 () <summary>
