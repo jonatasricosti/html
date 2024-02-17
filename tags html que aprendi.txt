@@ -239,7 +239,7 @@ Defines a parameter for an object
 () <picture>
 Defines a container for multiple image resources
 
-() <pre>
+(x) <pre>
 Defines preformatted text
 
 () <progress>
