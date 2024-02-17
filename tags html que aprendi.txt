@@ -200,7 +200,7 @@ Defines marked/highlighted text
 () <menu>
 Defines an unordered list
 
-() <meta>
+(x) <meta>
 Defines metadata about an HTML document
 
 () <meter>
