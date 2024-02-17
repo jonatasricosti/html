@@ -31,7 +31,7 @@ Defines content aside from the page content
 () <audio>
 Defines embedded sound content
 
-() <b>
+(x) <b>
 Defines bold text
 
 () <base>
