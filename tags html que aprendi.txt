@@ -158,7 +158,7 @@ Defines a thematic change in the content
 (x) <html>
 Defines the root of an HTML document
 
-() <i>
+(x) <i>
 Defines a part of text in an alternate voice or mood
 
 () <iframe>
