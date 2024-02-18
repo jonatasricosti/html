@@ -290,7 +290,7 @@ Not supported in HTML5. Use <del> or <s> instead. Defines strikethrough text
 () <strong>
 Defines important text
 
-() <style>
+(x) <style>
 Defines style information for a document
 
 (x) <sub>
