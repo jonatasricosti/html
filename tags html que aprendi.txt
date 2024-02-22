@@ -287,7 +287,7 @@ Defines a section in a document
 () <strike>
 Not supported in HTML5. Use <del> or <s> instead. Defines strikethrough text
 
-() <strong>
+(x) <strong>
 Defines important text
 
 (x) <style>
