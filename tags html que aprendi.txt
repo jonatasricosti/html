@@ -348,7 +348,7 @@ Not supported in HTML5. Use CSS instead. Defines teletype text
 (x) <u>
 Defines some text that is unarticulated and styled differently from normal text
 
-() <ul>
+(x) <ul>
 Defines an unordered list
 
 () <var>
