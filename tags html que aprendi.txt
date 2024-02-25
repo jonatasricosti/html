@@ -152,7 +152,7 @@ Defines a header for a document or section
 () <hgroup>
 Defines a header and related content
 
-() <hr>
+(x) <hr>
 Defines a thematic change in the content
 
 (x) <html>
