@@ -102,7 +102,7 @@ Defines a dialog box or window
 () <dir>
 Not supported in HTML5. Use <ul> instead. Defines a directory list
 
-() <div>
+(x) <div>
 Defines a section in a document
 
 () <dl>
