@@ -281,7 +281,7 @@ Defines smaller text
 () <source>
 Defines multiple media resources for media elements (<video> and <audio>)
 
-() <span>
+(x) <span>
 Defines a section in a document
 
 () <strike>
