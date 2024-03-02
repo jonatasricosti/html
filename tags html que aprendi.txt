@@ -28,7 +28,7 @@ Defines an article
 () <aside>
 Defines content aside from the page content
 
-() <audio>
+(x) <audio>
 Defines embedded sound content
 
 (x) <b>
