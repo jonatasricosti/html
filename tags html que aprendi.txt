@@ -354,7 +354,7 @@ Defines an unordered list
 () <var>
 Defines a variable
 
-() <video>
+(x) <video>
 Defines embedded video content
 
 () <wbr>
