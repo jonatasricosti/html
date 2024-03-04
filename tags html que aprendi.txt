@@ -278,7 +278,7 @@ Defines a drop-down list
 () <small>
 Defines smaller text
 
-() <source>
+(x) <source>
 Defines multiple media resources for media elements (<video> and <audio>)
 
 (x) <span>
