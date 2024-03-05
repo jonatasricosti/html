@@ -236,7 +236,7 @@ Defines a paragraph
 () <param>
 Defines a parameter for an object
 
-() <picture>
+(x) <picture>
 Defines a container for multiple image resources
 
 (x) <pre>
