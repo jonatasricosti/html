@@ -302,7 +302,7 @@ Defines a visible heading for a <details> element
 (x) <sup>
 Defines superscripted text
 
-() <svg>
+(x) <svg>
 Defines a container for SVG graphics
 
 () <table>
