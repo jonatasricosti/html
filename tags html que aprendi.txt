@@ -149,7 +149,7 @@ Contains metadata/information for the document
 () <header>
 Defines a header for a document or section
 
-() <hgroup>
+(x) <hgroup>
 Defines a header and related content
 
 (x) <hr>
