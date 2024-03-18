@@ -206,7 +206,7 @@ Defines metadata about an HTML document
 () <meter>
 Defines a scalar measurement within a known range (a gauge)
 
-() <nav>
+(x) <nav>
 Defines navigation links
 
 () <noframes>
