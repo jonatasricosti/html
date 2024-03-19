@@ -129,7 +129,7 @@ Specifies self-contained content
 () <font>
 Not supported in HTML5. Use CSS instead. Defines font, color, and size for text
 
-() <footer>
+(x) <footer>
 Defines a footer for a document or section
 
 () <form>
