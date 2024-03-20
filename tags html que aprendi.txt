@@ -269,7 +269,7 @@ Defines a client-side script
 () <search>
 Defines a search section
 
-() <section>
+(x) <section>
 Defines a section in a document
 
 () <select>
