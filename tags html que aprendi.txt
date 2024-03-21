@@ -22,7 +22,7 @@ Not supported in HTML5. Use <embed> or <object> instead. Defines an embedded app
 () <area>
 Defines an area inside an image map
 
-() <article>
+(x) <article>
 Defines an article
 
 () <aside>
