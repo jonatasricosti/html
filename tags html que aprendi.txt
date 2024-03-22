@@ -146,7 +146,7 @@ Defines HTML headings
 (x) <head>
 Contains metadata/information for the document
 
-() <header>
+(x) <header>
 Defines a header for a document or section
 
 (x) <hgroup>
