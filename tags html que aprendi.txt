@@ -188,7 +188,7 @@ Defines a list item
 (x) <link>
 Defines the relationship between a document and an external resource (most used to link to style sheets)
 
-() <main>
+(x) <main>
 Specifies the main content of a document
 
 () <map>
