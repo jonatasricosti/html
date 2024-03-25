@@ -25,7 +25,7 @@ Defines an area inside an image map
 (x) <article>
 Defines an article
 
-() <aside>
+(x) <aside>
 Defines content aside from the page content
 
 (x) <audio>
