@@ -212,7 +212,7 @@ Defines navigation links
 () <noframes>
 Not supported in HTML5. Defines an alternate content for users that do not support frames
 
-() <noscript>
+(x) <noscript>
 Defines an alternate content for users that do not support client-side scripts
 
 () <object>
@@ -351,7 +351,7 @@ Defines some text that is unarticulated and styled differently from normal text
 (x) <ul>
 Defines an unordered list
 
-() <var>
+(x) <var>
 Defines a variable
 
 (x) <video>
