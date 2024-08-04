@@ -329,7 +329,7 @@ Defines a header cell in a table
 () <thead>
 Groups the header content in a table
 
-() <time>
+(x) <time>
 Defines a specific time (or datetime)
 
 (x) <title>
