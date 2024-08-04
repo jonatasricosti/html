@@ -263,7 +263,7 @@ Defines text that is no longer correct
 () <samp>
 Defines sample output from a computer program
 
-() <script>
+(x) <script>
 Defines a client-side script
 
 () <search>
