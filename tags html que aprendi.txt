@@ -40,10 +40,10 @@ Specifies the base URL/target for all relative URLs in a document
 () <basefont>
 Not supported in HTML5. Use CSS instead. Specifies a default color, size, and font for all text in a document
 
-() <bdi>
+(x) <bdi>
 Isolates a part of text that might be formatted in a different direction from other text outside it
 
-() <bdo>
+(x) <bdo>
 Overrides the current text direction
 
 () <big>
