@@ -311,7 +311,7 @@ Defines a table
 () <tbody>
 Groups the body content in a table
 
-() <td>
+(x) <td>
 Defines a cell in a table
 
 () <template>
