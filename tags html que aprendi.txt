@@ -335,7 +335,7 @@ Defines a specific time (or datetime)
 (x) <title>
 Defines a title for the document
 
-() <tr>
+(x) <tr>
 Defines a row in a table
 
 () <track>
