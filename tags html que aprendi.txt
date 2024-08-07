@@ -305,7 +305,7 @@ Defines superscripted text
 (x) <svg>
 Defines a container for SVG graphics
 
-() <table>
+(x) <table>
 Defines a table
 
 () <tbody>
