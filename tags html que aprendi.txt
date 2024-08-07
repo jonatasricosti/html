@@ -323,7 +323,7 @@ Defines a multiline input control (text area)
 () <tfoot>
 Groups the footer content in a table
 
-() <th>
+(x) <th>
 Defines a header cell in a table
 
 () <thead>
