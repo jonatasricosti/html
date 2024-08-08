@@ -320,7 +320,7 @@ Defines a container for content that should be hidden when the page loads
 () <textarea>
 Defines a multiline input control (text area)
 
-() <tfoot>
+(x) <tfoot>
 Groups the footer content in a table
 
 (x) <th>
