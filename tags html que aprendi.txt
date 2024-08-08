@@ -308,7 +308,7 @@ Defines a container for SVG graphics
 (x) <table>
 Defines a table
 
-() <tbody>
+(x) <tbody>
 Groups the body content in a table
 
 (x) <td>
