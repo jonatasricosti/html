@@ -64,7 +64,7 @@ Defines a clickable button
 () <canvas>
 Used to draw graphics, on the fly, via scripting (usually JavaScript)
 
-() <caption>
+(x) <caption>
 Defines a table caption
 
 () <center>
