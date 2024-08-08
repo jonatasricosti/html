@@ -326,7 +326,7 @@ Groups the footer content in a table
 (x) <th>
 Defines a header cell in a table
 
-() <thead>
+(x) <thead>
 Groups the header content in a table
 
 (x) <time>
