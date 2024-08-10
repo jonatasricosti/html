@@ -76,7 +76,7 @@ Defines the title of a work
 (x) <code>
 Defines a piece of computer code
 
-() <col>
+(x) <col>
 Specifies column properties for each column within a <colgroup> element 
 
 (x) <colgroup> Specifies a group of one or more columns in a table for formatting
