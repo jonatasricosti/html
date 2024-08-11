@@ -46,7 +46,7 @@ Isolates a part of text that might be formatted in a different direction from ot
 (x) <bdo>
 Overrides the current text direction
 
-() <big>
+(x) <big>
 Not supported in HTML5. Use CSS instead. Defines big text
 
 () <blockquote>
