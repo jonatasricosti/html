@@ -126,7 +126,7 @@ Defines a caption for a <figure> element
 () <figure>
 Specifies self-contained content
 
-() <font>
+(x) <font>
 Not supported in HTML5. Use CSS instead. Defines font, color, and size for text
 
 (x) <footer>
