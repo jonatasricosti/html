@@ -342,7 +342,7 @@ Defines a row in a table
 Defines text tracks for media elements (<video> and 
 <audio>)
 
-() <tt>
+(x) <tt>
 Not supported in HTML5. Use CSS instead. Defines teletype text
 
 (x) <u>
