@@ -284,7 +284,7 @@ Defines multiple media resources for media elements (<video> and <audio>)
 (x) <span>
 Defines a section in a document
 
-() <strike>
+(x) <strike>
 Not supported in HTML5. Use <del> or <s> instead. Defines strikethrough text
 
 (x) <strong>
