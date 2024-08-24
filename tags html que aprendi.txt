@@ -99,7 +99,7 @@ Defines text that has been deleted from a document
 () <dialog>
 Defines a dialog box or window
 
-() <dir>
+(x) <dir>
 Not supported in HTML5. Use <ul> instead. Defines a directory list
 
 (x) <div>
