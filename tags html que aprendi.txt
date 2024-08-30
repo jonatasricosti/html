@@ -275,7 +275,7 @@ Defines a section in a document
 () <select>
 Defines a drop-down list
 
-() <small>
+(x) <small>
 Defines smaller text
 
 (x) <source>
