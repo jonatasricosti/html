@@ -114,7 +114,7 @@ Defines a term/name in a description list
 () <em>
 Defines emphasized text 
 
-() <embed>
+(x) <embed>
 Defines a container for an external application
 
 () <fieldset>
