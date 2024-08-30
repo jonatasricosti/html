@@ -16,7 +16,7 @@ Not supported in HTML5. Use <abbr> instead. Defines an acronym
 () <address>
 Defines contact information for the author/owner of a document
 
-() <applet>
+(x) <applet>
 Not supported in HTML5. Use <embed> or <object> instead. Defines an embedded applet
 
 () <area>
