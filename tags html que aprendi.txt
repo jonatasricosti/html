@@ -111,7 +111,7 @@ Defines a description list
 () <dt>
 Defines a term/name in a description list
 
-() <em>
+(x) <em>
 Defines emphasized text 
 
 (x) <embed>
