@@ -170,7 +170,7 @@ Defines an image
 () <input>
 Defines an input control
 
-() <ins>
+(x) <ins>
 Defines a text that has been inserted into a document
 
 () <kbd>
