@@ -251,7 +251,7 @@ Defines a short quotation
 () <rp>
 Defines what to show in browsers that do not support ruby annotations
 
-() <rt>
+(x) <rt>
 Defines an explanation/pronunciation of characters (for East Asian typography)
 
 (x) <ruby>
