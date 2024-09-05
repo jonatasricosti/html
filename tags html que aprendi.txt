@@ -254,7 +254,7 @@ Defines what to show in browsers that do not support ruby annotations
 () <rt>
 Defines an explanation/pronunciation of characters (for East Asian typography)
 
-() <ruby>
+(x) <ruby>
 Defines a ruby annotation (for East Asian typography)
 
 (x) <s>
