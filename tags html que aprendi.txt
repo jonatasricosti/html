@@ -248,7 +248,7 @@ Represents the progress of a task
 () <q>
 Defines a short quotation
 
-() <rp>
+(x) <rp>
 Defines what to show in browsers that do not support ruby annotations
 
 (x) <rt>
