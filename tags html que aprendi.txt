@@ -233,7 +233,7 @@ Defines the result of a calculation
 (x) <p>
 Defines a paragraph
 
-() <param>
+(x) <param>
 Defines a parameter for an object
 
 (x) <picture>
