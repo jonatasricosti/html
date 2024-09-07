@@ -173,7 +173,7 @@ Defines an input control
 (x) <ins>
 Defines a text that has been inserted into a document
 
-() <kbd>
+(x) <kbd>
 Defines keyboard input
 
 () <label>
