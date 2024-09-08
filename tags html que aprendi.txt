@@ -194,7 +194,7 @@ Specifies the main content of a document
 () <map>
 Defines an image map
 
-() <mark>
+(x) <mark>
 Defines marked/highlighted text
 
 () <menu>
