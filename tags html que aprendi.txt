@@ -197,7 +197,7 @@ Defines an image map
 (x) <mark>
 Defines marked/highlighted text
 
-() <menu>
+(x) <menu>
 Defines an unordered list
 
 (x) <meta>
