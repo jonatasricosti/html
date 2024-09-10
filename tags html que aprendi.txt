@@ -357,5 +357,5 @@ Defines a variable
 (x) <video>
 Defines embedded video content
 
-() <wbr>
+(x) <wbr>
 Defines a possible line-break
