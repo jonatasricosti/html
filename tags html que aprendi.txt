@@ -260,7 +260,7 @@ Defines a ruby annotation (for East Asian typography)
 (x) <s>
 Defines text that is no longer correct
 
-() <samp>
+(x) <samp>
 Defines sample output from a computer program
 
 (x) <script>
