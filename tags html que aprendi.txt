@@ -94,7 +94,7 @@ Defines text that has been deleted from a document
 
 () <details> Defines additional details that the user can view or hide
 
-() <dfn> Specifies a term that is going to be defined within the content
+(x) <dfn> Specifies a term that is going to be defined within the content
 
 () <dialog>
 Defines a dialog box or window
