@@ -61,7 +61,7 @@ Defines a single line break
 () <button>
 Defines a clickable button
 
-() <canvas>
+(x) <canvas>
 Used to draw graphics, on the fly, via scripting (usually JavaScript)
 
 (x) <caption>

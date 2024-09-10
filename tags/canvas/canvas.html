@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+
+
+<head>
+	<meta charset ="UTF-8">
+
+	<style>
+		canvas
+		{
+			background-color: black;
+			border: 2px solid blue;
+		}
+	</style>
+
+</head>
+
+<body>
+
+<pre>
+A tag canvas, no documento html, serve para criar uma janela gráfica e desenhos nela, e a maioria dos códigos é controlado por javascript.
+</pre>
+
+<canvas id = "janela" width = "640" height = "480"></canvas>
+
+<script>
+// códigos em javascript
+
+
+const canvas = document.getElementById('janela');
+const ctx = canvas.getContext('2d');
+
+
+let rect =
+{
+	x: 50,
+	y: 120,
+	width: 80,
+	height: 50,
+};
+
+
+
+function DrawRect()
+{
+	ctx.clearRect(0,0,canvas.width, canvas.height); // limpa o canvas
+	ctx.fillStyle = 'blue'; // cor do retângulo
+	ctx.fillRect(rect.x, rect.y, rect.width, rect.height); // desenha o retângulo
+}
+
+
+
+
+DrawRect();
+</script>
+
+</body>
+
+
+</html>
