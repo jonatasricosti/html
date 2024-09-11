@@ -81,7 +81,7 @@ Specifies column properties for each column within a <colgroup> element
 
 (x) <colgroup> Specifies a group of one or more columns in a table for formatting
 
-() <data>
+(x) <data>
 Adds a machine-readable translation of a given content
 
 () <datalist> Specifies a list of pre-defined options for input controls
