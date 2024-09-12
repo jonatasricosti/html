@@ -34,7 +34,7 @@ Defines embedded sound content
 (x) <b>
 Defines bold text
 
-() <base>
+(x) <base>
 Specifies the base URL/target for all relative URLs in a document
 
 (x) <basefont>
