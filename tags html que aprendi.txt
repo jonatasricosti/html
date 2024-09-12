@@ -314,7 +314,7 @@ Groups the body content in a table
 (x) <td>
 Defines a cell in a table
 
-() <template>
+(x) <template>
 Defines a container for content that should be hidden when the page loads
 
 () <textarea>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang = "pt-br">
+
+<head>
+	<meta charset="UTF-8">
+</head>
+
+<body>
+
+<pre>
+A tag template é usada como um contêiner para manter algum conteúdo HTML oculto do usuário quando a página é carregada.
+O conteúdo dentro de template pode ser renderizado depois com JavaScript.
+</pre>
+
+
+<button onclick= "show()"> Mostrar conteúdo oculto </button>
+
+<template>
+
+<h1> Flor </h1>
+
+<img src = "flor.jpg"> 
+
+</template>
+
+
+<script>
+
+function show()
+{
+	let temp = document.getElementsByTagName("template")[0];
+	let clon = temp.content.cloneNode(true);
+	document.body.appendChild(clon);
+}
+
+</script>
+
+</body>
+
+
+</html>
