@@ -245,7 +245,7 @@ Defines preformatted text
 () <progress>
 Represents the progress of a task
 
-() <q>
+(x) <q>
 Defines a short quotation
 
 (x) <rp>
