@@ -49,7 +49,7 @@ Overrides the current text direction
 (x) <big>
 Not supported in HTML5. Use CSS instead. Defines big text
 
-() <blockquote>
+(x) <blockquote>
 Defines a section that is quoted from another source
 
 (x) <body>
