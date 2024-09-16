@@ -120,10 +120,10 @@ Defines a container for an external application
 () <fieldset>
 Groups related elements in a form
 
-() <figcaption>
+(x) <figcaption>
 Defines a caption for a <figure> element
 
-() <figure>
+(x) <figure>
 Specifies self-contained content
 
 (x) <font>
