@@ -105,7 +105,7 @@ Not supported in HTML5. Use <ul> instead. Defines a directory list
 (x) <div>
 Defines a section in a document
 
-() <dl>
+(x) <dl>
 Defines a description list
 
 () <dt>
