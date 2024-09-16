@@ -86,7 +86,7 @@ Adds a machine-readable translation of a given content
 
 () <datalist> Specifies a list of pre-defined options for input controls
 
-() <dd>
+(x) <dd>
 Defines a description/value of a term in a description list
 
 (x) <del>
