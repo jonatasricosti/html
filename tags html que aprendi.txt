@@ -338,7 +338,7 @@ Defines a title for the document
 (x) <tr>
 Defines a row in a table
 
-() <track>
+(x) <track>
 Defines text tracks for media elements (<video> and 
 <audio>)
 
