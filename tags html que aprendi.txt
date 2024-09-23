@@ -96,7 +96,7 @@ Defines text that has been deleted from a document
 
 (x) <dfn> Specifies a term that is going to be defined within the content
 
-() <dialog>
+(x) <dialog>
 Defines a dialog box or window
 
 (x) <dir>
