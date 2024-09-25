@@ -242,7 +242,7 @@ Defines a container for multiple image resources
 (x) <pre>
 Defines preformatted text
 
-() <progress>
+(x) <progress>
 Represents the progress of a task
 
 (x) <q>
