@@ -203,7 +203,7 @@ Defines an unordered list
 (x) <meta>
 Defines metadata about an HTML document
 
-() <meter>
+(x) <meter>
 Defines a scalar measurement within a known range (a gauge)
 
 (x) <nav>
