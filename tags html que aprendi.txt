@@ -176,7 +176,7 @@ Defines a text that has been inserted into a document
 (x) <kbd>
 Defines keyboard input
 
-() <label>
+(x) <label>
 Defines a label for an <input> element
 
 () <legend>
