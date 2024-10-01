@@ -19,7 +19,7 @@ Defines contact information for the author/owner of a document
 (x) <applet>
 Not supported in HTML5. Use <embed> or <object> instead. Defines an embedded applet
 
-() <area>
+(x) <area>
 Defines an area inside an image map
 
 (x) <article>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang = "pt-br">
+
+<head>
+	<meta charset="UTF-8">
+</head>
+
+<body>
+
+<pre>
+A tag area é usada para definir áreas clicáveis em um mapa de imagem.
+Esta tag deve ser sempre filha de uma tag map.
+
+<b>Dica:</b> para pegar as coordenadas de rect no gimp use a ferramenta
+encolher automaticamente e veja que
+x1 = x
+y1 = y
+x2 = x+w
+y2 = y+h
+e do círculo desenhe ele com alguma função da linguagem c ou c++ e depois veja as coordenadas dele
+o mesmo serve para polígonos.
+</pre>
+
+
+<img src = "desenhos.bmp" alt = "imagem não encontrada" usemap="#workmap">
+
+
+<map name = "workmap">
+<area shape="rect" coords="200,100,250,180" href="https://www.google.com.br/" title="Retângulo">
+<area shape="circle" coords="100,320,50,180" href="https://www.youtube.com.br/" title="Círculo">
+
+</body>
+
+</html>
