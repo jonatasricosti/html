@@ -191,7 +191,7 @@ Defines the relationship between a document and an external resource (most used 
 (x) <main>
 Specifies the main content of a document
 
-() <map>
+(x) <map>
 Defines an image map
 
 (x) <mark>
