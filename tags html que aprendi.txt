@@ -296,7 +296,7 @@ Defines style information for a document
 (x) <sub>
 Defines subscripted text
 
-() <summary>
+(x) <summary>
 Defines a visible heading for a <details> element
 
 (x) <sup>
