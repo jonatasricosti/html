@@ -92,7 +92,7 @@ Defines a description/value of a term in a description list
 (x) <del>
 Defines text that has been deleted from a document
 
-() <details> Defines additional details that the user can view or hide
+(x) <details> Defines additional details that the user can view or hide
 
 (x) <dfn> Specifies a term that is going to be defined within the content
 
