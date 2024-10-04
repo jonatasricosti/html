@@ -317,7 +317,7 @@ Defines a cell in a table
 (x) <template>
 Defines a container for content that should be hidden when the page loads
 
-() <textarea>
+(x) <textarea>
 Defines a multiline input control (text area)
 
 (x) <tfoot>
