@@ -224,7 +224,7 @@ Defines an ordered list
 () <optgroup>
 Defines a group of related options in a drop-down list
 
-() <option>
+(x) <option>
 Defines an option in a drop-down list
 
 () <output>
