@@ -272,7 +272,7 @@ Defines a search section
 (x) <section>
 Defines a section in a document
 
-() <select>
+(x) <select>
 Defines a drop-down list
 
 (x) <small>
