@@ -221,7 +221,7 @@ Defines a container for an external application
 (x) <ol>
 Defines an ordered list
 
-() <optgroup>
+(x) <optgroup>
 Defines a group of related options in a drop-down list
 
 (x) <option>
