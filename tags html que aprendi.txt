@@ -167,7 +167,7 @@ Defines an inline frame
 (x) <img>
 Defines an image
 
-() <input>
+(x) <input>
 Defines an input control
 
 (x) <ins>
