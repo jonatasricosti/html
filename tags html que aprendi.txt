@@ -132,7 +132,7 @@ Not supported in HTML5. Use CSS instead. Defines font, color, and size for text
 (x) <footer>
 Defines a footer for a document or section
 
-() <form>
+(x) <form>
 Defines an HTML form for user input
 
 (x) <frame> Not supported in HTML5. Defines a window (a frame) in a frameset
