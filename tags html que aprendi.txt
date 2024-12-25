@@ -58,7 +58,7 @@ Defines the document's body
 (x) <br>
 Defines a single line break
 
-() <button>
+(x) <button>
 Defines a clickable button
 
 (x) <canvas>
