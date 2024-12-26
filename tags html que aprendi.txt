@@ -179,7 +179,7 @@ Defines keyboard input
 (x) <label>
 Defines a label for an <input> element
 
-() <legend>
+(x) <legend>
 Defines a caption for a <fieldset> element
 
 (x) <li>
