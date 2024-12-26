@@ -117,7 +117,7 @@ Defines emphasized text
 (x) <embed>
 Defines a container for an external application
 
-() <fieldset>
+(x) <fieldset>
 Groups related elements in a form
 
 (x) <figcaption>
