@@ -84,7 +84,7 @@ Specifies column properties for each column within a <colgroup> element
 (x) <data>
 Adds a machine-readable translation of a given content
 
-() <datalist> Specifies a list of pre-defined options for input controls
+(x) <datalist> Specifies a list of pre-defined options for input controls
 
 (x) <dd>
 Defines a description/value of a term in a description list

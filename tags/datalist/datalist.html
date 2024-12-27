@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang = "pt-br">
+
+<head>
+	<meta charset="UTF-8">
+</head>
+
+<body>
+
+<pre>
+A tag datalist especifica uma lista de opções predefinidas para um elemento input.
+A tag datalist é usada para fornecer um recurso de "preenchimento automático" para elementos input. Os usuários verão uma lista suspensa de opções predefinidas conforme inserem dados.
+O atributo id do elemento datalist deve ser igual ao atributo list do elemento input (isso os vincula).
+</pre>
+
+
+<form>
+
+<label>Escolha seu navegador na lista:</label>
+<input list = "Navegadores">
+<datalist id = "Navegadores">
+    <option value = "Brave">    </option>
+    <option value = "Chrome">  </option>
+    <option value = "Edge">    </option>
+    <option value = "Firefox"> </option>
+    <option value = "Opera">   </option>
+    <option value = "Safari">  </option>
+</datalist>
+
+<input type = "submit" value = "Enviar">
+
+<p><strong>Nota:</strong> A tag datalist não é suportada no Safari 12.0 (ou anterior)</p>
+
+</form>
+
+</body>
+
+</html>
