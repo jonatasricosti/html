@@ -266,7 +266,7 @@ Defines sample output from a computer program
 (x) <script>
 Defines a client-side script
 
-() <search>
+(x) <search>
 Defines a search section
 
 (x) <section>
